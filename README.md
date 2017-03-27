@@ -18,10 +18,6 @@ The group proposes to develop a secret Dropbox allocated in FEUP.
 The application will behave like the original Dropbox, a service for file hosting. 
 The application will have two main **stack screens** (the same page layout for several screens/app interface): the folder screen where the contents are displayed and the *file menu* with several subprotocols as **UPLOAD**, **DELETE** file or **CREATE**, **DELETE** Folder. 
 
-The application will have two main screens: a *main menu* screen and a *room* screen.  
-In the **main menu**, users will be able to *join* existing rooms, or to *create* new rooms.  
-Users are presented with the **room screen** after having joined or created a room. Each room has a *canvas* where its users will be able to draw, sketch, or paint collaboratively with each other. The canvas of each room is unique, and therefore what is drawn in the canvas of a room is not drawn on any other canvas of other rooms.
-
 
 ## Main Features
 
