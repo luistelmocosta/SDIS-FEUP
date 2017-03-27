@@ -13,7 +13,7 @@
 
 ## Purpose of the Application
 
-The group proposes to develop a secret Dropbox allocated in FEUP.
+The group proposes to develop a secret Dropbox allocated in FEUP. The idea is to have an hidden router somewhere at feup with and use it to create a server hosting our box.
 
 The application will behave like the original Dropbox, a service for file hosting. 
 The application will have two main **stack screens** (the same page layout for several screens/app interface): the folder screen where the contents are displayed and the *file menu* with several subprotocols as **UPLOAD**, **DELETE** file or **CREATE**, **DELETE** Folder. 
