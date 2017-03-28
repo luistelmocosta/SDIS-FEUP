@@ -1,11 +1,12 @@
 package filesystem;
+import file.ChunkFile;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.HashMap;
 
 public class FileSystem {
-    private HashMap<String, FileChunk> filesystem;
+    private HashMap<String, ChunkFile> filesystem;
 
 
     /**
@@ -24,7 +25,7 @@ public class FileSystem {
      * @param fileID
      * @param file
      */
-    public void addNewFile(String fileID, FileChunk file) {
+    public void addNewFile(String fileID, ChunkFile file) {
         filesystem.put(fileID, file);
     }
 

@@ -1,6 +1,7 @@
 package file;
 
 import java.io.IOException;
+import java.util.HashMap;
 
 /**
  * Class that contains most operations about file chunks
