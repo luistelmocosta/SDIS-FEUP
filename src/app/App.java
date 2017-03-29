@@ -34,9 +34,17 @@ public class App {
     }
 
     public static void main(String[] args) {
-
+        //App app = new App(args);
         System.out.println("Welcome to Distributed Backup Service!");
+        //app.start();
+
     }
+
+    /**
+     *
+     *
+     *
+     */
 
     public void start() {
         try {
